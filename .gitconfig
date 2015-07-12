@@ -1,0 +1,13 @@
+[color]
+    ui = true
+[user]
+	name = Alexander Wirt
+	email = formorer@debian.org
+[push]
+	default = tracking
+[giggle]
+	main-window-maximized = false
+	main-window-geometry = 956x1041+960+18
+	history-view-vpane-position = 660
+	file-view-vpane-position = 846
+	main-window-view = HistoryView
